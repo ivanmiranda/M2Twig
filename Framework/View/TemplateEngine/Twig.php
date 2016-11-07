@@ -1,6 +1,6 @@
 <?php
 
-namespace SchumacherFM\Twig\Framework\View\TemplateEngine;
+namespace Sincco\Twig\Framework\View\TemplateEngine;
 
 use Magento\Framework\View\TemplateEngine\Php,
     Magento\Framework\App\Filesystem\DirectoryList,

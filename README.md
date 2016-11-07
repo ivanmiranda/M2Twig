@@ -126,14 +126,14 @@ Installation via Composer
 
 Add the following to the require section of your Magento 2 `composer.json` file
 
-    "schumacherfm/mage2-twig": "dev-master"
+    "Sincco/mage2-twig": "dev-master"
 
 additionally add the following in the repository section
 
         "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/SchumacherFM/Magento2-Twig.git"
+            "url": "https://github.com/ivanmiranda/M2Twig.git"
         }
     ]
     
@@ -141,7 +141,7 @@ run `composer update`
 
 add the following to `app/etc/config.php`
 
-    'SchumacherFM_Twig'=>1
+    'Sincco_Twig'=>1
 
 Compatibility
 -------------
@@ -174,7 +174,5 @@ OSL-30
 
 Author
 ------
+[Iván Miranda](http://ivanmiranda.me)
 
-[Cyrill Schumacher](http://cyrillschumacher.com)
-
-[My pgp public key](http://www.schumacher.fm/cyrill.asc)

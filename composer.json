@@ -1,5 +1,5 @@
 {
-    "name": "schumacherfm/mage2-twig",
+    "name": "sincco/m2twig",
     "description": "Twig for Magento2",
     "require": {
         "php": ">=5.4.11",
@@ -14,8 +14,8 @@
     ],
     "authors": [
         {
-            "name": "Cyrill Schumacher",
-            "homepage": "http://cyrillschumacher.com/",
+            "name": "Iván Miranda",
+            "homepage": "http://sincco.com/",
             "role": "Developer"
         }
     ],
@@ -24,7 +24,7 @@
             "registration.php"
         ],
         "psr-4": {
-            "SchumacherFM\\Twig\\": ""
+            "Sincco\\Twig\\": ""
         }
     }
 }
